@@ -1,2 +1,2 @@
 # Python Digital Audio Processors
-This has the same digital audio processors as the MATLAB repository, but in Python. There is are no descriptions or theory, just the program files and either sample audio files or sample input signals.
+Digital audio processors such as a compressor, equalizer, phase vocoder, reverb, dereverb, and more. 
